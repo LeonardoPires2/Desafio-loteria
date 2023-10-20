@@ -1,0 +1,3 @@
+### EXERCÍCIO TIRADO DE UMA PROVA DA MINHA FACULDADE 
+
+Desafio da loteria  
